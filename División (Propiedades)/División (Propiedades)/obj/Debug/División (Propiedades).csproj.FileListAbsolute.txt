@@ -1,0 +1,11 @@
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\bin\Debug\División (Propiedades).exe.config
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\bin\Debug\División (Propiedades).exe
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\bin\Debug\División (Propiedades).pdb
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\obj\Debug\División (Propiedades).csproj.AssemblyReference.cache
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\obj\Debug\División (Propiedades).csproj.SuggestedBindingRedirects.cache
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\obj\Debug\División__Propiedades_.Form1.resources
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\obj\Debug\División__Propiedades_.Properties.Resources.resources
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\obj\Debug\División (Propiedades).csproj.GenerateResource.cache
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\obj\Debug\División (Propiedades).csproj.CoreCompileInputs.cache
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\obj\Debug\División (Propiedades).exe
+C:\Programación orienrada a objetos\División (Propiedades)\División (Propiedades)\obj\Debug\División (Propiedades).pdb

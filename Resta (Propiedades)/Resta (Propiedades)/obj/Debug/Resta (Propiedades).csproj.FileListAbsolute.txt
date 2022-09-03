@@ -1,0 +1,11 @@
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\bin\Debug\Resta (Propiedades).exe.config
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\bin\Debug\Resta (Propiedades).exe
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\bin\Debug\Resta (Propiedades).pdb
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\obj\Debug\Resta (Propiedades).csproj.AssemblyReference.cache
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\obj\Debug\Resta (Propiedades).csproj.SuggestedBindingRedirects.cache
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\obj\Debug\Resta__Propiedades_.Form1.resources
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\obj\Debug\Resta__Propiedades_.Properties.Resources.resources
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\obj\Debug\Resta (Propiedades).csproj.GenerateResource.cache
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\obj\Debug\Resta (Propiedades).csproj.CoreCompileInputs.cache
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\obj\Debug\Resta (Propiedades).exe
+C:\Programación orienrada a objetos\Resta (Propiedades)\Resta (Propiedades)\obj\Debug\Resta (Propiedades).pdb

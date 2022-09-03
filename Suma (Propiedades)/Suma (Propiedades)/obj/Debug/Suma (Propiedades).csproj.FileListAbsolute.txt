@@ -1,0 +1,22 @@
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\bin\Debug\Suma (Propiedades).exe.config
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\bin\Debug\Suma (Propiedades).exe
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\bin\Debug\Suma (Propiedades).pdb
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).csproj.AssemblyReference.cache
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).csproj.SuggestedBindingRedirects.cache
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma__Propiedades_.Form1.resources
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma__Propiedades_.Properties.Resources.resources
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).csproj.GenerateResource.cache
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).csproj.CoreCompileInputs.cache
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).exe
+C:\Programación orienrada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).pdb
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\bin\Debug\Suma (Propiedades).exe.config
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\bin\Debug\Suma (Propiedades).exe
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\bin\Debug\Suma (Propiedades).pdb
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).csproj.AssemblyReference.cache
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).csproj.SuggestedBindingRedirects.cache
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma__Propiedades_.Form1.resources
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma__Propiedades_.Properties.Resources.resources
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).csproj.GenerateResource.cache
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).csproj.CoreCompileInputs.cache
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).exe
+C:\Programación orientada a objetos\Suma (Propiedades)\Suma (Propiedades)\obj\Debug\Suma (Propiedades).pdb

@@ -1,0 +1,11 @@
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\bin\Debug\Multiplicación (Propiedades).exe.config
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\bin\Debug\Multiplicación (Propiedades).exe
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\bin\Debug\Multiplicación (Propiedades).pdb
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\obj\Debug\Multiplicación (Propiedades).csproj.AssemblyReference.cache
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\obj\Debug\Multiplicación (Propiedades).csproj.SuggestedBindingRedirects.cache
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\obj\Debug\Multiplicación__Propiedades_.Form1.resources
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\obj\Debug\Multiplicación__Propiedades_.Properties.Resources.resources
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\obj\Debug\Multiplicación (Propiedades).csproj.GenerateResource.cache
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\obj\Debug\Multiplicación (Propiedades).csproj.CoreCompileInputs.cache
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\obj\Debug\Multiplicación (Propiedades).exe
+C:\Programación orienrada a objetos\Multiplicación (Propiedades)\Multiplicación (Propiedades)\obj\Debug\Multiplicación (Propiedades).pdb
