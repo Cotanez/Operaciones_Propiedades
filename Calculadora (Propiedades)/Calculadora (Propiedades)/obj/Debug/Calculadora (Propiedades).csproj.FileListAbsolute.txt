@@ -1,0 +1,11 @@
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\bin\Debug\Calculadora (Propiedades).exe.config
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\bin\Debug\Calculadora (Propiedades).exe
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\bin\Debug\Calculadora (Propiedades).pdb
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\obj\Debug\Calculadora (Propiedades).csproj.AssemblyReference.cache
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\obj\Debug\Calculadora (Propiedades).csproj.SuggestedBindingRedirects.cache
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\obj\Debug\Calculadora__Propiedades_.Form1.resources
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\obj\Debug\Calculadora__Propiedades_.Properties.Resources.resources
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\obj\Debug\Calculadora (Propiedades).csproj.GenerateResource.cache
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\obj\Debug\Calculadora (Propiedades).csproj.CoreCompileInputs.cache
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\obj\Debug\Calculadora (Propiedades).exe
+C:\Programación orienrada a objetos\Calculadora (Propiedades)\Calculadora (Propiedades)\obj\Debug\Calculadora (Propiedades).pdb
